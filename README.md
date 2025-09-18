@@ -3,9 +3,9 @@
 ## Hello!
 
 ##### I'm Elvis Lin.
-- Software Engineering Major at UCI
-- Web Developer at UCI Stem Cell Research Center
-- Incoming Software Engineering Intern at Optum/UnitedHealth Group
+- Full-stack Software Engineer at Optum
+- Frontend enthusiast
+- Coffee Lover
 
 ## GitHub Stats
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisLin125)](https://github.com/ElvisLin125)
