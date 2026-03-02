@@ -7,12 +7,6 @@
 - Frontend enthusiast
 - Coffee Lover
 
-## GitHub Stats
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisLin125)](https://github.com/ElvisLin125)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisLin125)](https://github.com/ElvisLin125)
-
-
 
 ### Web Development Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
